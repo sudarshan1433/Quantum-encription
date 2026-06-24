@@ -1,0 +1,4 @@
+herestreamlit
+qiskit
+qiskit-aer
+cryptography
